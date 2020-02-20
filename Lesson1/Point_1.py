@@ -1,0 +1,7 @@
+print('Enter next information please')
+name = input('Enter your name: ')
+age = int(input('Enter your age: '))
+city = input('Enter your city: ')
+country = input('Enter your country: ')
+print('You entered: ')
+print(f'Name: {name}  \nAge: {age}  \nCity: {city}  \nCountry: {country}')

@@ -1,0 +1,4 @@
+string start
+texttexttexttext
+continue
+and now finish
